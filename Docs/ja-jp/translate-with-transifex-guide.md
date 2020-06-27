@@ -11,7 +11,8 @@ ms.topic: how-to-article
 ms.service: Community
 ms.custom: CommunityDocs
 ---
-#Transifexを使用して、Open Source にある製品を翻訳
+
+# Transifexを使用して、Open Source にある製品を翻訳
 
 ### Microsoft
 
