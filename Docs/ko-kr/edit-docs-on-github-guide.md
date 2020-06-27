@@ -28,8 +28,7 @@ ms.custom: CommunityDocs
 
 ![](./img/TA17022101/image2.png)
 
-깃허브 계정이 있으시면 ‘**Sign in’** 을 클릭하시고, 없으시면 ‘**Sign
-up’**을 클릭하세요.
+깃허브 계정이 있으시면 ‘**Sign in’** 을 클릭하시고, 없으시면 ‘**Sign up’** 을 클릭하세요.
 
 ![](./img/TA17022101/image3.png)
 
