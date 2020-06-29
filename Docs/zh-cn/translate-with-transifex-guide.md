@@ -12,7 +12,7 @@ ms.service: Community
 ms.custom: CommunityDocs
 ---
 
-#透过 Transifex 中文化开源软件
+# 透过 Transifex 中文化开源软件
 
 #### Microsoft
 
