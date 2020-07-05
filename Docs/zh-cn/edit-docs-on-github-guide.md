@@ -12,7 +12,7 @@ ms.service: Community
 ms.custom: CommunityDocs
 ---
 
-#通过 GitHub 在线编辑 DOCS 技术文章
+# 通过 GitHub 在线编辑 DOCS 技术文章
 
 #### Microsoft
 
